@@ -191,7 +191,58 @@ Relationship between file formats and content categories.
 Comparative analysis of multiple datasets in the collection.
 
 ## 📊 Anna's Archive Analysis Examples
-Coming soon!
+
+### Airiti Books Analysis
+![Airiti Books Analysis](images/Airiti%20Books%20Analysis.png)
+
+### Bloomsbury Analysis
+![Publication Year Analysis](images/ISBNAnalysisandCollectionTypes_BloomsburyAnalysis.png)
+ISBN Analysis and Collection Types
+
+### CERLALC Records Analysis
+![CERLALC Records Analysis Top subjects and publishers](images/TopsubjectsandpublishersCERLALCRecordsAnalysis.png)
+Top subjects and publishers
+
+### Chinese Architecture Analysis
+![Publication Analysis by Year and Publisher](images/PublicationAnalysisbyYearandPublisherChinese.png)
+Publication Analysis by Year and Publisher
+
+### Czech Records Analysis
+![Czech Records Analysis](images/KeywordAnalysisCzech.png)
+Keyword Analysis
+
+### # DuXiu Records Analysis
+![SQL query to get the number of records by ISBN-10](images/DuXiuRecordsAnalysis.png)
+SQL query to get the number of records by ISBN-10
+
+### EBSCO Records Analysis
+![EBSCO Records Analysis](images/EBSCORecordsAnalysis.png)
+SQL query to analyze the subjects and subject types
+
+### Google Books Analysis
+![Google Books Analysis Language](images/GoogleBooksAnalysisLanguage.png)
+SQL query to analyze books by language, keeping top 10 languages and grouping others as "Other"
+
+### Goodreads Analysis
+![SQL query to analyze book statistics](images/GoodreadsSQLquerytoanalyzebookstatistics.png)
+SQL query to analyze book statistics
+
+### ISBN Group Analysis
+![SQL query to analyze geographic and agency data](images/SQLquerytoanalyzegeographicandagencydata.png)
+SQL query to analyze geographic and agency data
+
+### Kulturpass Analysis
+![Book and Price Analysis](images/BookandPriceAnalysisKulturpass.png)
+Book and Price Analysis
+
+### Libby Records Analysis
+![Content and Publisher Analysis](images/LibbyBookandPriceAnalysis.png)
+Content and Publisher Analysis
+
+### Magazine Database Analysis
+![Upload and File Analysis](images/MaganizeUploadandFileAnalysis.png)
+Upload and File Analysis
+
 
 ## 🚀 Quick Start
 
