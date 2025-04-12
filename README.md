@@ -65,6 +65,9 @@ project/
 2. **AAC Data**
    - Place all `.zst` files in the `data/aac/` folder.
    - Then, run the processing script to convert the files to Parquet format.
+3. **MariaDB Data**
+   - Place all `.gz` files in the `data/mariadb/` folder.
+   - Then, run the processing script to convert the files to Parquet format.
 
 
 
