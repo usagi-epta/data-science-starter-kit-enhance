@@ -44,15 +44,18 @@
 project/
 ├── data/
 │   ├── elasticsearch/    # Original .gz files from Elasticsearch
-│   ├── elasticsearchF/   #Final .parquet files from Elasticsearch
+│   ├── elasticsearchF/   # Final .parquet files from Elasticsearch
 │   ├── elasticsearchAux/ # Additional Elasticsearch data
-│   ├── elasticsearchAuxF/#Final .parquet files from Elasticsearchaux
+│   ├── elasticsearchAuxF/# Final .parquet files from Elasticsearchaux
 │   ├── aac/             # AAC Data .zst files
 │   ├── aacF/            # Final .parquet files from aac data
+│   ├── mariadb/         # Original MariaDB data files
+│   ├── mariadbF/        # Final .parquet files from MariaDB data
 ├── notebooks/
-│   ├── Elasticsearch_Queries.ipynb   # Elasticsearch analysis notebook
+│   ├── Elasticsearch_Queries.ipynb    # Elasticsearch analysis notebook
 │   ├── ElasticsearchAux_Queries.ipynb # ElasticsearchAux analysis notebook
-│   └── AAC_Queries.ipynb              # AACanalysis notebooks
+│   ├── AAC_Queries.ipynb             # AAC analysis notebooks
+│   └── Mariadb_Queries.ipynb         # MariaDB analysis notebook
 ```
 
 ### Data Processing Steps
@@ -218,6 +221,7 @@ Coming soon!
 - `Elasticsearch_Queries.ipynb`: Elasticsearch Queries
 - `ElasticsearchAUX_Queries.ipynb`: ElasticsearchAUX Queries
 - `AAC_Queries.ipynb`: AAC Queries
+- `Mariadb_Queries.ipynb`: MariaDB Queries
 
 ## 🔧 Configuration
 
