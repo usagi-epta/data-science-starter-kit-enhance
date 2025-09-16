@@ -75,7 +75,7 @@ project/
 
 #### Using initialScript.py
 ```bash
-python initialScript.py
+python SetupInitial.py
 ```
 
 This script will:
